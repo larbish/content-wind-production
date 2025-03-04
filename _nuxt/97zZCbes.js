@@ -1,0 +1,1 @@
+import{j as o,c as a,i as n,g as e,S as r}from"./DAn_TZHb.js";const c={},l={class:"py-10 m-auto sm:px-8"},d={class:"px-4 mx-auto max-w-2xl prose"};function f(t,s){return n(),a("div",l,[e("main",d,[r(t.$slots,"default",{},()=>[s[0]||(s[0]=e("h1",{class:"text-2xl"},"Page not found",-1))])])])}const m=o(c,[["render",f]]);export{m as default};
